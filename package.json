@@ -1,6 +1,6 @@
 {
   "name": "vue-wc-seed",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/vue-wc-seed.umd.min.js",
   "module": "dist/vue-wc-seed.esm.js",
